@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "bestspace"
         },
         "eventHubName": {
-            "value": "GEN-UNIQUE"
+            "value": "bestdeploy"
         },
         "consumerGroupName": {
-            "value": "GEN-UNIQUE"
+            "value": "bestcg"
         } 
     }
 }
